@@ -1,1 +1,110 @@
 terdapat 2 perubahan (2 commit) semoga tidak bertambah
+Perubahan pertama :
+85 files changed, 0 insertions(+), 0 deletions(-)
+ rename {Modul 1 => tugas/Modul 1}/202312051 Martonius E. S. Laporan Pratikum Pemrograman WEB Modul 1.docx (100%)
+ rename {Modul 2 => tugas/Modul 2}/Modul 2 Pengenalan CSS.pdf (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/nomor 6/boxmodel_css.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/nomor 6/boxmodel_css2.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/nomor 7/Flexbox_css.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/nomor 7/Flexbox_css2.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/nomor 8/grid_css.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/nomor 8/grid_css2.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/nomor 9/Rensposive_css.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/nomor 9/Rensposive_css1.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/nomor 9/Rensposive_css2.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/nomor 9/Tugas9.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/tahap 1/css 1.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/tahap 1/css 2.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/tahap 2/external_css.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/tahap 2/inline_css.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/tahap 2/internal_css.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/tahap 2/mystyle.css (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/tahap 3/Selector CSS 2.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/tahap 3/Selector CSS.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/tahap 4/propertiwarna_css.html (100%)
+ rename {Modul 2 => tugas/Modul 2}/code/tahap 4/propertiwarna_css2.html (100%)
+ rename {Modul 3 => tugas/Modul 3}/202312051 Martonius E. S. Laporan Pratikum Pemrograman WEB Modul 3.docx (100%)
+ rename {Modul 3 => tugas/Modul 3}/202312051 Martonius E. S. Laporan Pratikum Pemrograman WEB Modul 3.pdf (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/2 point 2.html (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/2.html (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/3 point 1.html (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/3 point 2.html (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/3 point 3.html (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/4 point 1.html (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/4 point 2.html (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/5 Card foto saya.html (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/5 Card.html (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/5 Modal.html (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/5 Pagination.html (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/5 button.html (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/5 navbar.html (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/NPK.png (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/Tugas Praktikum.html (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/Urea.png (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/foto_saya.png (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/kanan-_kiri.png (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/new 1.html (100%)
+ rename {Modul 3 => tugas/Modul 3}/Latihan/organik.png (100%)
+ rename {Modul 3 => tugas/Modul 3}/Modul 3 Bootstrap.pdf (100%)
+ rename {Modul 5 => tugas/Modul 5}/202312051 Martonius E. S. Laporan Pratikum Pemrograman WEB Modul 5.docx (100%)
+ rename {Modul 5 => tugas/Modul 5}/Modul 5_Dasar-dasar PHP v2.pdf (100%)
+ rename {Modul 5 => tugas/Modul 5}/Tugas Modul 5.mp4 (100%)
+ rename {Modul 5 => tugas/Modul 5}/web/1.html (100%)
+ rename {Modul 6 => tugas/Modul 6}/202312051 Martonius E. S. Laporan Pratikum Pemrograman WEB Modul 6.docx (100%)
+ rename {Modul 6 => tugas/Modul 6}/202312051 Martonius E. S. Laporan Pratikum Pemrograman WEB Modul 6.pdf (100%)
+ rename {Modul 6 => tugas/Modul 6}/202312051 Martonius E. S. Laporan Pratikum Pemrograman WEB Modul 6_compressed.docx (100%)
+ rename {Modul 6 => tugas/Modul 6}/Modul 6_ Pemrograman Web dengan PHP dan MySQL.pdf (100%)
+ rename {Modul 6 => tugas/Modul 6}/file/DATABASE db_toko.sql (100%)
+ rename {Modul 6 => tugas/Modul 6}/link GitHub.txt (100%)
+ rename {Modul 7 => tugas/Modul 7}/202312051 Martonius E. S. Laporan Pratikum Pemrograman WEB Modul 7.docx (100%)
+ rename {Modul 7 => tugas/Modul 7}/Modul 7 Git & GitHub.pdf (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/202312051 Martonius E. S. Laporan Pratikum Pemrograman WEB Modul 4.docx (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/202312051 Martonius E. S. Laporan Pratikum Pemrograman WEB Modul 4.pdf (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/Info.txt (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/Modul 4 Javascript.pdf (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/1.jpg (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/2.jpg (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/3.png (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/Kalkulator.html (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/Pratikum 1.html (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/Pratikum 2 Event Handling .html (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/Pratikum 2 Event Handling Mod.html (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/Pratikum 3 Logika Percabangan Mod.html (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/Pratikum 3 Logika Percabangan.html (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/To-Do List Mod.html (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/To-Do List.html (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/asus1.jpeg (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/asus2.jpeg (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/asus3.jpeg (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/e1.jpeg (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/objek_date.html (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/objek_math.html (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/objek_string.html (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/perulangan_daftar Mod.html (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/perulangan_daftar.html (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/slideshow.html (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/tokoelektronnik.html (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/validasi_form Mod.html (100%)
+ rename {Modul 4 => tugas/Modul-4-javascript}/web/validasi_form.html (100%)
+
+Asus@LAPTOP-98T79L4V MINGW64 /d/Marton/Kuliah S1 Teknik Informatika/Semester 4/PEMROGRAMAN WEB/Portofolio-Pemrograman-Web-202312051 (master)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 438 bytes | 438.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Martonius3/Portofolio-Pemrograman-Web-202312051.git
+   5bb26ac..98ac898  master -> master
+
+
+perubahan ke 2:
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 508 bytes | 508.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Martonius3/Portofolio-Pemrograman-Web-202312051.git
+   98ac898..d0c055f  master -> master
