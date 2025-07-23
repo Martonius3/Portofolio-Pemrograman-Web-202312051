@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Latihan Logika Percabangan</title>
+</head>
+<body>
+
+  <h2>Kalkulator Diskon Belanja</h2>
+  <p>Masukkan total belanja Anda:</p>
+  <input type="number" id="totalBelanja" placeholder="Contoh: 150000">
+  <button onclick="cekDiskon()">Cek Diskon</button>
+  <h3 id="hasil"></h3>
+
+  <!-- Script Logika Percabangan -->
+  <script>
+    function cekDiskon() {
+      var total = parseFloat(document.getElementById("totalBelanja").value);
+      var pesan = "";
+
+      if (isNaN(total)) {
+        pesan = "Mohon masukkan angka yang valid.";
+      } else if (total >= 100000) {
+        var diskon = total * 0.10;
+        var totalBayar = total - diskon;
+        pesan = "Selamat! Anda dapat diskon 10% sebesar Rp " + formatRupiah(diskon) +
+                ". Total bayar: <b>Rp " + formatRupiah(totalBayar) + "</b>";
+      } else {
+        pesan = "Maaf, tidak ada diskon. Total bayar: <b>Rp " + formatRupiah(total) + "</b>";
+      }
+
+      document.getElementById("hasil").innerHTML = pesan;
+    }
+
+    // Fungsi untuk format angka ke format rupiah sederhana
+    function formatRupiah(angka) {
+      return angka.toLocaleString('id-ID', { style: 'decimal', maximumFractionDigits: 0 });
+    }
+  </script>
+
+</body>
+</html>

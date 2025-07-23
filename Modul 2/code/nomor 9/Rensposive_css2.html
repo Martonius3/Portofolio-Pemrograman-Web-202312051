@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Responsive Grid Layout</title>
+  <style>
+    body {
+      background-color: lightblue;
+      font-size: 18px;
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 15px;
+      padding: 20px;
+    }
+
+    .grid-item {
+      background-color: #4CAF50;
+      color: white;
+      padding: 30px;
+      text-align: center;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+
+    .responsive-text {
+      text-align: center;
+      padding: 20px;
+      font-size: 24px;
+    }
+
+    @media only screen and (max-width: 600px) {
+      body {
+        background-color: lightcoral;
+        font-size: 14px;
+      }
+
+      .container {
+        grid-template-columns: 1fr;
+      }
+
+      .responsive-text {
+        font-size: 18px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="responsive-text">
+    Ini adalah teks yang ukurannya menyesuaikan layar
+  </div>
+
+  <div class="container">
+    <div class="grid-item">Kolom 1</div>
+    <div class="grid-item">Kolom 2</div>
+    <div class="grid-item">Kolom 3</div>
+  </div>
+
+</body>
+</html>

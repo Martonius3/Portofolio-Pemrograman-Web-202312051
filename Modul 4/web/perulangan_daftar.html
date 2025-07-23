@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Latihan Perulangan</title>
+</head>
+<body>
+
+  <h2>Daftar Mata Kuliah</h2>
+  <ul id="daftar-matkul">
+    <!-- Konten akan diisi oleh JavaScript -->
+  </ul>
+
+  <script>
+    // Array berisi nama-nama mata kuliah
+    var matkul = ["Pemrograman Web", "Struktur Data", "Basis Data", "Jaringan Komputer"];
+
+    // Ambil elemen UL dari DOM
+    var daftarElement = document.getElementById("daftar-matkul");
+
+    // Gunakan perulangan untuk menambahkan setiap item ke dalam daftar
+    for (let i = 0; i < matkul.length; i++) {
+      daftarElement.innerHTML += "<li>" + matkul[i] + "</li>";
+    }
+  </script>
+
+</body>
+</html>

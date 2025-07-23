@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Aplikasi To-Do List</title>
+  <style>
+    li {
+      margin-bottom: 5px;
+    }
+    button.hapus-btn {
+      margin-left: 10px;
+      color: white;
+      background-color: red;
+      border: none;
+      padding: 3px 8px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>To-Do List Sederhana</h2>
+  <input type="text" id="input-todo" placeholder="Ketik tugas baru...">
+  <button onclick="tambahTugas()">Tambah</button>
+
+  <ul id="daftar-tugas"></ul>
+
+  <script>
+    var tugas = [];
+
+    function tambahTugas() {
+      var inputElement = document.getElementById("input-todo");
+      var isiTugas = inputElement.value.trim();
+
+      if (isiTugas !== "") {
+        tugas.push(isiTugas);
+        inputElement.value = "";
+        tampilkanDaftar();
+      } else {
+        alert("Tugas tidak boleh kosong!");
+      }
+    }
+
+    function hapusTugas(index) {
+      tugas.splice(index, 1); // Menghapus item dari array
+      tampilkanDaftar();      // Menampilkan ulang daftar yang sudah diperbarui
+    }
+
+    function tampilkanDaftar() {
+      var daftarElement = document.getElementById("daftar-tugas");
+      daftarElement.innerHTML = "";
+
+      for (let i = 0; i < tugas.length; i++) {
+        daftarElement.innerHTML +=
+          "<li>" + tugas[i] +
+          " <button class='hapus-btn' onclick='hapusTugas(" + i + ")'>Hapus</button></li>";
+      }
+    }
+  </script>
+
+</body>
+</html>

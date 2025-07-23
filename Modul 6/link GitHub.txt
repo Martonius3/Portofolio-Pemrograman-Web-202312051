@@ -1,0 +1,9 @@
+link GitHub	
+Vidio modul 6	:
+style.css	: https://github.com/Martonius3/Modul6/blob/main/style.css
+edit.php	: https://github.com/Martonius3/Modul6/blob/main/edit.php
+hapus.php	: https://github.com/Martonius3/Modul6/blob/main/hapus.php
+index.php	: https://github.com/Martonius3/Modul6/blob/main/index.php
+koneksi.php	: https://github.com/Martonius3/Modul6/blob/main/koneksi.php
+tambah.php	: https://github.com/Martonius3/Modul6/blob/main/tambah.php
+SQL db_toko	: https://github.com/Martonius3/Modul6/blob/main/db_toko.sql

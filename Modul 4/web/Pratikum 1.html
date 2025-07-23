@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Latihan Manipulasi DOM</title>
+  <!-- Gaya CSS -->
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      margin-top: 50px;
+    }
+
+    #judul {
+      color: steelblue;
+    }
+
+    button {
+      padding: 10px 15px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Judul Utama -->
+  <h1 id="judul">Selamat Datang di Praktikum JavaScript</h1>
+
+  <!-- Tombol Aksi -->
+  <button onclick="ubahTeks()">Ubah Teks Judul</button>
+
+  <!-- Script JavaScript -->
+  <script>
+function ubahTeks() {
+  var elemenJudul = document.getElementById("judul");
+
+  // Mengubah isi teks
+  elemenJudul.innerHTML = "Teks Berhasil Diubah!";
+
+  // Mengubah warna teks
+  elemenJudul.style.color = "crimson";
+
+  // Mengubah ukuran font
+  elemenJudul.style.fontSize = "36px";
+
+  // Menambahkan huruf tebal
+  elemenJudul.style.fontWeight = "bold";
+
+  // Mengubah jenis font
+  elemenJudul.style.fontFamily = "Georgia, serif";
+}
+
+  </script>
+
+</body>
+</html>
